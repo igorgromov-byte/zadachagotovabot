@@ -1,0 +1,15 @@
+{
+  "poll_seconds": 180,
+  "grace_seconds": 1200,
+  "recheck_seconds": 3600,
+  "recheck_days": 7,
+  "designer_initials": ["IGGR", "IGIG", "POCH", "EVNE", "OLNE", "YULA", "KRQU"],
+  "boards": [
+    {"id": "1204245420942591", "name": "Design | RockApp", "done_section": "1204390073267897", "creative_root": "1WG6W2imap1dIhq1SU3jPRyvlH6EJzZCj", "project_root": "1kJyJzDokQdoQdHrqS7v5_s2b_O81aHat", "department": "NATIVE"},
+    {"id": "1208478094238120", "name": "Design - Summon Web", "done_section": "1208478094238128", "creative_root": "1cRHPsXBQKhd8UekrtIcalus2x3Hk46c_", "project_root": "1kJyJzDokQdoQdHrqS7v5_s2b_O81aHat"},
+    {"id": "1217787094815406", "name": "Anastasiia Kilchynska | Design", "done_section": "1217784679299939", "creative_root": "13KEO6BoaHCj_ao4kbbQPBOfkVLIb70AK", "project_root": "1jo_AHHQTCwBBoTRl2PqLL_kpX3Gx8zVf"},
+    {"id": "1217334647235070", "name": "Semen Smirnov | Design", "done_section": "1217334683124564", "creative_root": "1ijE5VJHADY5t-eRA3baGjWZ7Hqs6_c8P", "project_root": null, "personal_root": "1BYDlYZPz8NpNfY7em890h7lpRvQSoFUf"},
+    {"id": "1217112211186811", "name": "Ovannes Aleksanian | Design", "done_section": "1217144428044034", "creative_root": null, "project_root": null, "personal_root": "1U39Gry4OHgyCvpvvb-bMNWHKOEZILnB7"}
+  ],
+  "task_overrides": {}
+}
